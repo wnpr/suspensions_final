@@ -1,0 +1,12 @@
+name: tuition_to_other_schools
+title: tuition_to_other_schools
+username:
+account: wnpr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 915523
+bundleId: 2092183
+url: https://wnpr.shinyapps.io/tuition_to_other_schools/
+when: 1558112644.98163
+asMultiple: FALSE
+asStatic: FALSE
