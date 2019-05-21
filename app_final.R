@@ -1,3 +1,6 @@
+#Thanks to Sharon Machlis
+#Author, Practical R for Mass Communication and Journalism - for her invaluable coding help
+
 #load R data file written from app_data.R
 load("appdatafile.rdata")
 
